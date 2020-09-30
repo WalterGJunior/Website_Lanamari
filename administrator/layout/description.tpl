@@ -1,0 +1,1 @@
+<? echo @$tb_config['tx_descricao']; ?>

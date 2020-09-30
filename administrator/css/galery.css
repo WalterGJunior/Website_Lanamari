@@ -1,0 +1,29 @@
+
+
+.ImgWrapperFoto{
+   float:left;
+   display:block;
+   margin:5px;
+   width:160px;
+   height:110px;
+}
+.ImgWrapperFoto img{
+   display:block;
+   margin:5px auto;
+   max-width:160px;
+   border:transparent;
+
+}
+.ImgWrapper img{
+   display:block;
+   margin:10px auto;
+   width:180px;
+   height:125px;
+   border:4px double #C0C0C0;
+}
+.thumbsA{
+   margin:5px;
+   border:transparent;
+   max-height:100px;
+
+}

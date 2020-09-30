@@ -1,0 +1,1 @@
+<? echo @$tb_config['tx_telefone_1']; ?><? if($tb_config[tx_telefone_2]){echo"/ $tb_config[tx_telefone_2]";} ?><br /><? echo @$tb_config['tx_email']; ?>
